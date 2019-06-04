@@ -13,5 +13,7 @@ La *segunda página* aparece el nombre de usuario y apellido de la página anter
 - Botón para volver a la página de inicio.
 
 <p align="center">
+  
   ![Jokes App](jokesappgif.gif)
+
 </p>
