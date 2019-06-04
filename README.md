@@ -12,8 +12,8 @@ La *segunda página* aparece el nombre de usuario y apellido de la página anter
 - Listado de datos recogidos a través de una API. ( https://official-joke-api.appspot.com/jokes/programming/ten )
 - Botón para volver a la página de inicio.
 
-<p align="center">
-  
-  ![Jokes App](jokesappgif.gif)
+A continuación, una pequeña muestra de lo que hace la aplicación:
 
-</p>
+![Jokes App](jokesappgif.gif)
+
+
