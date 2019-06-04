@@ -12,5 +12,5 @@ La *segunda página* aparece el nombre de usuario y apellido de la página anter
 - Listado de datos recogidos a través de una API. ( https://official-joke-api.appspot.com/jokes/programming/ten )
 - Botón para volver a la página de inicio.
 
-![React Native](https://novu.ch/site/assets/files/1120/react_logo_wordmark.png)
+![Jokes Application](https://i.imgur.com/VYEhaoj.gifv)
 
