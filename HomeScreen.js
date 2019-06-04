@@ -51,7 +51,7 @@ export default class HomeScreen extends Component {
         <Footer>
           <FooterTab>
             <ButtonBase full>
-              <Text>Application created by Cristhian ds.</Text>
+              <Text>Application created by Cristhian G.</Text>
             </ButtonBase>
           </FooterTab>
         </Footer>
