@@ -1,13 +1,20 @@
-# Sample Snack app
+# Jokes Application
 
-Welcome to Expo!
+La *primera página* pedirá los datos de usuario nombre y apellido. 
+- Imagen de fondo
+- Cajas de texto para nombre y apellido.
+- Botón que nos llevará a la página 2.
+- Uso flex, se podrá ver en horizontal/vertical.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**. When you're done, click **Save** and share the link!
+La *segunda página* tiene diseño libre y deberá:
+Aparecer el nombre de usuario y apellido de la página anterior.
+- Listado de datos recogidos  desde alguna web externa.
+- Botón para volver a la página de inicio.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Export** your project and use it with [expo-cli](https://docs.expo.io/versions/latest/introduction/installation.html).
+La *tercera página* nos presentará datos extendidos del elemento seleccionado en la segunda página. (4 ptos)
+- Botón de vuelta
 
-Projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the **Embed** button.
+Curso: Lenguaje de marcas 
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io).
+![React Native](https://novu.ch/site/assets/files/1120/react_logo_wordmark.png)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack-web).
