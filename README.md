@@ -15,6 +15,6 @@ La *segunda página* aparece el nombre de usuario y apellido de la página anter
 A continuación, una pequeña muestra de lo que hace la aplicación:
 
 ![Jokes App](jokesappgif.gif)
-![](HomeScreen.png)
-![](SecondScreen.png)
+![](HomeScreen.PNG)
+![](SecondScreen.PNG)
 
