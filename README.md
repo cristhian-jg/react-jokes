@@ -13,6 +13,3 @@ The * second page * shows the username and last name of the previous page.
 Here is a small sample of what the application does:
 
 ![Jokes App](jokesappgif.gif)
-![](HomeScreen.PNG)
-![](SecondScreen.PNG)
-
