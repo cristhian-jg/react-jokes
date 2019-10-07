@@ -1,18 +1,16 @@
 # Jokes Application
 
-Curso: Lenguaje de marcas 
+The * first page * will ask for the user name first and last name.
+- Background image
+- Text boxes for first and last name.
+- Button that will take us to page 2.
+- Use of flex, can be viewed horizontally / vertically.
 
-La *primera página* pedirá los datos de usuario nombre y apellido. 
-- Imagen de fondo
-- Cajas de texto para nombre y apellido.
-- Botón que nos llevará a la página 2.
-- Uso de flex, se puede ver en horizontal/vertical.
+The * second page * shows the username and last name of the previous page.
+- List of data collected through an API. ( https://official-joke-api.appspot.com/jokes/programming/ten )
+- Button to return to the home page.
 
-La *segunda página* aparece el nombre de usuario y apellido de la página anterior.
-- Listado de datos recogidos a través de una API. ( https://official-joke-api.appspot.com/jokes/programming/ten )
-- Botón para volver a la página de inicio.
-
-A continuación, una pequeña muestra de lo que hace la aplicación:
+Here is a small sample of what the application does:
 
 ![Jokes App](jokesappgif.gif)
 ![](HomeScreen.PNG)
